@@ -2,8 +2,6 @@
 
 ### A budding C# developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kilokiyiu&label=Profile views&color=0e75b6&style=flat" alt="Kilokiyiu" /> </p>
-
 - 🌱 I'm currently learning **C# and Java**
 
 - 🤝 I'm looking for help with **ASP.NET CORE web development**
